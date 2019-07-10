@@ -1,0 +1,8 @@
+components:
+  db:
+    struct:
+    dsn: mysql:host=localhost;dbname=coupon
+    username: root
+    password: root
+    charset: utf8
+
