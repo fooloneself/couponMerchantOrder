@@ -1,5 +1,6 @@
 package mysql
 
+
 type Connection struct {
 	Dsn			string `yaml:"dsn"`
 	Username 	string `yaml:"username"`
